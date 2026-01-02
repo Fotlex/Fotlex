@@ -5,7 +5,7 @@
 
 ### Python developer from Russia 🇷🇺
 
-My name is Pavel Mazikin and I'm from Russian Federation, living in Vladivostok.
+My name is Alexandr Simankov and I'm from Russian Federation, living in Vladivostok.
 
 </div>
 
