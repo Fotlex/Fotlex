@@ -1,11 +1,11 @@
     
 <div align="center">
 
-# Hi there, I'm <span style="color: #4A90E2;">PAVEL</span> 👋
+# Hi there, I'm <span style="color: #4A90E2;">ALEXANDR</span> 👋
 
 ### Python developer from Russia 🇷🇺
 
-My name is Pavel Mazikin and I'm from Russian Federation, living in Moscow.
+My name is Pavel Mazikin and I'm from Russian Federation, living in Vladivostok.
 
 </div>
 
@@ -15,7 +15,7 @@ My name is Pavel Mazikin and I'm from Russian Federation, living in Moscow.
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
